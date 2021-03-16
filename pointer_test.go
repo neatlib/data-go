@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	data "github.com/neatio-project/go-data"
+	data "github.com/neatlib/data-go"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

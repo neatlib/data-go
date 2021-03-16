@@ -15,7 +15,7 @@ package main
 
 import (
   "fmt"
-  b58 "github.com/neatio-project/go-data/base58"
+  b58 "github.com/neatlib/data-go/base58"
 )
 
 func main() {
@@ -40,7 +40,7 @@ package main
 
 import (
   "fmt"
-  b58 "github.com/neatio-project/go-data/base58"
+  b58 "github.com/neatlib/data-go/base58"
 )
 
 const BogusAlphabet = "ZYXWVUTSRQPNMLKJHGFEDCBAzyxwvutsrqponmkjihgfedcba987654321"

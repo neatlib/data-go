@@ -3,7 +3,7 @@ package data_test
 import (
 	"strings"
 
-	data "github.com/neatio-project/go-data"
+	data "github.com/neatlib/data-go"
 )
 
 /** These are some sample types to test parsing **/

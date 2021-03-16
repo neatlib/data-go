@@ -1,7 +1,7 @@
 package data
 
 import (
-	wire "github.com/neatio-project/go-wire"
+	wire "github.com/neatlib/wire-go"
 	"github.com/pkg/errors"
 )
 

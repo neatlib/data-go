@@ -1,5 +1,5 @@
 .PHONY: docs
-REPO:=github.com/neatio-project/go-data
+REPO:=github.com/neatlib/data-go
 
 docs:
 	@go get github.com/davecheney/godoc2md
