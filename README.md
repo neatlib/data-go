@@ -1,1 +1,1 @@
-# data-go library
+# Data Go Library
